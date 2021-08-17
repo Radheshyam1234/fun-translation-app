@@ -1,0 +1,71 @@
+*{
+    font-family:  'OctemberScript', sans-serif;
+    color:white;
+}
+body{
+
+ background-image: url("./images/Avtarimg.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+   
+}
+main{
+   max-width: 900px;
+    margin: auto;
+}
+
+.header{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+#inputTxt{
+    margin-bottom:2%;
+    width:30%;
+    height: 10rem;
+    border-radius: 10px;
+    padding:1rem;  
+    display: block;
+    font-size:1rem;
+    font-weight: bold;
+    color:black;
+}
+
+
+#button{
+    text-align: center;
+    background-color:#222f3e;
+    color:white;
+    border: 1px solid white;
+    padding: 1.4rem;
+    width: 25%;
+    border-radius: 10px;
+   
+    
+}
+#button:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+   
+}
+
+#outputTxt{
+    height: 12vh;
+    width: 30%;
+    border : 2px solid black ;
+    background-color: white;
+    padding: 1%;
+    margin-top:2%;
+    color:black;
+   
+}
+
+.about{
+    
+    font-weight: bold;
+    padding-top:1%;
+
+}
