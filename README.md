@@ -16,6 +16,6 @@ a fun app that translates the English language into a Navi language.
 *****
 
 ## Project link :
- Navi translatore:https://navi-translator.netlify.app/
+ Navi translatore:https://funtranslation-app-radheshyam.netlify.app/
 
 ## Thank you !
